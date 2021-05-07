@@ -83,6 +83,8 @@ Se llama base de datos, o también banco de datos, a un conjunto de información
 
 ## Red virtual 
 Una red virtual es una red que simula una red física y es una combinación de recursos de red de hardware y software. Hacen posible la comunicación entre varios ordenadores, máquinas virtuales, servidores virtuales y otros dispositivos ubicados en distintos centros de datos y oficinas. Consiguen que los dispositivos de distintas ubicaciones funcionen con las mismas prestaciones que si estuvieran conectados mediante redes físicas tradicionales.
+
+
 ![Curso-QA-Automation-Testing-con-Python-y-Selenium-WebDriver-310x165](https://user-images.githubusercontent.com/50337875/117512933-32d80c00-af56-11eb-8a84-2cfc948a1054.jpg)
 
 
@@ -104,8 +106,8 @@ son empresas que ofrecen entornos de TI, como las nubes públicas o las nubes pr
 
 ## CapEx
 El CapEx (Capital expenditure), en español gasto de capital, es la inversión en capital o inmovilizado fijo que se realiza una compañía ya sea para adquirir, mantener o mejorar su activo no corriente.
-![depositphotos_311885778-stock-illustration-capex-capital-expenditure-concept-with](https://user-images.githubusercontent.com/50337875/117513270-fa84fd80-af56-11eb-9325-e230b8c313af.jpg)
 
+![depositphotos_311885778-stock-illustration-capex-capital-expenditure-concept-with](https://user-images.githubusercontent.com/50337875/117513270-fa84fd80-af56-11eb-9325-e230b8c313af.jpg)
 
 ## OpEx
 Hace referencia a la cantidad de dinero destinado a mantener en funcionamiento los bienes de capital de una determinada empresa, sobre todo sus equipamientos e instalaciones. El OPEX es, por lo tanto, el dinero invertido continuamente en mantener la producción de un producto o servicio o en mantener el funcionamiento de un negocio o determinado sistema. 
