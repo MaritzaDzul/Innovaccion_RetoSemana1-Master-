@@ -8,3 +8,4 @@ Es la entrega de servicios informáticos a través de Internet, que también se 
 •	Reducir los costos operativos.
 •	Ejecución de infraestructura eficiente.
 
+![Cloud-1-768x432](https://user-images.githubusercontent.com/50337875/117507915-58ace300-af4d-11eb-9d0e-eda3bdb74792.jpg)
