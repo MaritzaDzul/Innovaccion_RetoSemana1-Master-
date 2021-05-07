@@ -39,7 +39,7 @@ En este modelo de servicio el proveedor de la nube gestiona todos los aspectos d
 App Service es un servicio basado en HTTP que le permite crear y alojar muchos tipos de soluciones basadas en web sin administrar la infraestructura. Por ejemplo: 
 * Aplicaciones web.
 * Back-ends móviles.
-* API RESTful.
+* API RESTful.mbhb
 
 ## Nube pública: 
 Los servicios se ofrecen a través de la internet pública y están disponibles para cualquier persona que desee adquirirlos. Normalmente sirve para cubrir necesidades de almacenamiento y correo electrónico. Tiene la característica de compartir hardware con otras cuentas y ser escalable de manera casi ilimitada.
