@@ -1,5 +1,5 @@
 # Innovaccion_RetoSemana1-Master-
-## ntegrantes:
+## Integrantes:
 ## Maritza Alejandra Dzul Uicab.
 ## José Manuel Domínguez Molina.
 
