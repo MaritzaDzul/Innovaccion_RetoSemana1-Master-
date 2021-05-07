@@ -27,6 +27,8 @@ Es la entrega de servicios informáticos a través de Internet, que también se 
 * Reducir los costos operativos.
 * Ejecución de infraestructura eficiente.
 
+
+
 ![Cloud-1-768x432](https://user-images.githubusercontent.com/50337875/117512885-18059780-af56-11eb-90b1-fad63ddcef63.jpg)
 
 ## Modelos de servicio en la nube.
